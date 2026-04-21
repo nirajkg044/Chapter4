@@ -1,4 +1,4 @@
-# Chapter4 - Write Workflow Agents
+# Chapter4 - Write Loop Agents
 This chapter guides you through writing a simple Loop agents. Loop Agents are the "Project Managers" of your system which follows a deterministic script that you define
 
 This `README.md` is designed to showcase your architectural mindset. It does explain how to write a LLM agent and run the code; it explains **why** you chose this multi-agent pattern and how the **Google ADK** handles state, reasoning, and tool-use.
